@@ -21,6 +21,7 @@ This is version 0.4.8.3
   </modDependencies>
   <loadAfter>
     <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
     <li>brrainz.harmony</li>
   </loadAfter>
   <loadBefore>
